@@ -38,6 +38,3 @@ pip install numpy pandas matplotlib seaborn openpyxl
 **Execution order:**
 1. Run `Simulação_MonteCarlo.ipynb` to generate the database file `clientes_simulados.xlsx`.
 2. Run `Visualizations.ipynb` to view the charts and resulting exploratory analysis.
-
-## 👥 About APRAD Consulting
-*(Add a brief paragraph here about APRAD's mission or team members, if applicable)*
